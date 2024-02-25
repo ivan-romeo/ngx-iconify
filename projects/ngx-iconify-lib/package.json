@@ -6,6 +6,10 @@
     "@angular/core": ">=16.0.0",
     "iconify-icon": "^2.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/ivan-romeo/ngx-iconify.git"
+  },
   "keywords": [
     "iconify",
     "icon",
